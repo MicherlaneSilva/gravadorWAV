@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecorderAudio</string>
+    <string name="status">Status</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="vazio" />
+</resources>
